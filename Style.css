@@ -1,0 +1,515 @@
+body {
+    overflow-x: hidden;
+    overflow-y: auto;
+    flex-wrap: wrap;
+}
+
+.navbar {
+    margin-top: 20px;
+}
+
+.logo {
+    height: 65px;
+    width: 120px;
+    margin-left: 41px;
+    margin-top: -20px;
+}
+
+#search {
+    width: 545px;
+    border: 1px solid rgb(236, 235, 235);
+    border-radius: 4px;
+    height: 30px;
+    font-size: 15px;
+    position: relative;
+    top: -29px;
+    padding: 1px;
+    font-size: small;
+    color: lightgoldenrodyellow;
+    /* letter-spacing: 0.5px; */
+    font-size: 13.8px;
+}
+
+#location {
+    border: none;
+    position: relative;
+    left: 190px;
+    top: -29px;
+    font-size: 14px;
+}
+
+#signin {
+    background-color: rgb(249, 66, 66);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    position: relative;
+    left: 180px;
+    top: -30px;
+    padding: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 12px;
+}
+
+.material-symbols-outlined {
+    position: relative;
+    left: 150px;
+    top: -22px;
+    margin-left: 45px;
+}
+
+.second {
+    background-color: rgb(244, 240, 240);
+    padding: 6px;
+    padding-bottom: 20px;
+    position: relative;
+    top: -15.5px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+a {
+    color: rgb(51, 50, 50);
+    text-decoration: none;
+    margin-left: 44px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13.8px;
+    word-spacing: -20px;
+    font-weight: 200;
+    position: relative;
+    top: 7px;
+}
+
+nav a {
+    font-size: 12px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: -25px;
+    position: relative;
+    left: 887px;
+    top: -13px;
+}
+
+#n {
+    word-spacing: 1px;
+}
+
+hr {
+    border-color: rgb(247, 239, 239);
+    position: relative;
+    top: -43px;
+}
+
+.third {
+    background-color: rgb(251, 249, 249);
+    padding: 6px;
+    padding-bottom: 18px;
+    position: relative;
+    top: -31px;
+}
+
+.third1 {
+    border-radius: 5px;
+    color: rgb(55, 56, 56);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19.6px;
+    font-weight: 200px;
+    margin-left: 36px;
+    position: relative;
+    top: 3px;
+}
+
+#su {
+    border-radius: 10px;
+    margin-top: -13px;
+    width: 208px;
+    height: 355px;
+}
+
+#maha {
+    border-radius: 10px;
+    margin-top: -13px;
+    width: 211px;
+    height: 355px;
+    position: relative;
+    left: 29px;
+}
+
+#king {
+    border-radius: 10px;
+    margin-top: -13px;
+    width: 211x;
+    height: 355px;
+    position: relative;
+    left: 59px;
+}
+
+#son {
+    border-radius: 10px;
+    margin-top: -13px;
+    width: 211px;
+    height: 355px;
+    position: relative;
+    left: 89px;
+}
+
+#saiyara {
+    border-radius: 10px;
+    margin-top: -13px;
+    width: 211px;
+    height: 355px;
+    position: relative;
+    left: 119px;
+}
+
+#see {
+    color: red;
+    position: relative;
+    left: 850px;
+    top: -2px;
+    word-spacing: 2px;
+    font-size: 12px;
+}
+
+#arow {
+    position: relative;
+}
+
+.fourth {
+    background-color: rgb(244, 240, 240);
+    height: 320px;
+    margin: -10px;
+    position: relative;
+    top: -41px;
+}
+
+#card1 {
+    border-radius: 10px;
+    text-align: center;
+    height: 299px;
+    width: 1224px;
+    position: relative;
+    top: 10px;
+    left: 25px;
+}
+
+.third2 h5 {
+    word-spacing: 1px;
+    font-size: 17px;
+    position: relative;
+    top: -20px;
+    left: 2px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+}
+
+.icon-search {
+    color: rgb(56, 54, 53);
+    font-weight: 100;
+    font-size: 16px;
+    position: relative;
+    left: -590px;
+}
+
+.icon-arrow-forward-ios {
+    border: 1px solid rgb(188, 171, 162);
+    border-radius: 5px;
+    width: 50px;
+    padding: 5px;
+    left: 1160px;
+    top: -1530px;
+    color: rgb(245, 244, 242);
+    background-color: rgba(0, 0, 0, 0.5);
+    font-weight: 100;
+}
+
+.icon-arrow-back-ios {
+    position: relative;
+    top: -1530px;
+    left: -142px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-weight: 100;
+    border-radius: 5px;
+    border: 1px solid rgb(188, 171, 162);
+    width: 110px;
+    margin-left: -50px;
+    padding: 5px;
+    text-align: right;
+}
+
+#card2 {
+    border-radius: 10px;
+    text-align: center;
+    height: 299px;
+    width: 1220px;
+    position: relative;
+    top: -290px;
+    left: 25px;
+}
+
+#card3 {
+    border-radius: 10px;
+    text-align: center;
+    height: 340px;
+    width: 1220px;
+    position: relative;
+    top: -590px;
+    left: 25px;
+}
+
+#name {
+    font-family: sans-serif;
+}
+
+.third2 p {
+    font-size: 16px;
+    position: relative;
+    top: -40px;
+    left: 2px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
+
+.third3 h5 {
+    word-spacing: 1px;
+    font-size: 17px;
+    position: relative;
+    top: -115px;
+    left: 250px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+}
+
+.third3 p {
+    font-size: 16px;
+    position: relative;
+    top: -133px;
+    left: 250px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
+
+.third4 h5 {
+    word-spacing: 1px;
+    font-size: 17px;
+    position: relative;
+    top: -210px;
+    left: 495px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+}
+
+.third4 p {
+    font-size: 16px;
+    position: relative;
+    top: -230px;
+    left: 495px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
+
+.third5 h5 {
+    word-spacing: 1px;
+    font-size: 17px;
+    position: relative;
+    top: -305px;
+    left: 745px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+}
+
+.third5 p {
+    font-size: 16px;
+    position: relative;
+    top: -325px;
+    left: 745px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
+
+.third6 h5 {
+    word-spacing: 1px;
+    font-size: 17px;
+    position: relative;
+    top: -400px;
+    left: 992px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+}
+
+.third6 p {
+    font-size: 16px;
+    position: relative;
+    top: -420px;
+    left: 992px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
+
+#new1 {
+    height: 100px;
+    position: relative;
+    top: -355px;
+}
+
+.last h3 {
+    position: relative;
+    left: 2px;
+    top: -300px;
+    word-spacing: 2px;
+}
+
+.last img {
+    border-radius: 10px;
+    margin-top: -13px;
+    width: 211px;
+    height: 205px;
+    position: relative;
+    left: 1px;
+    top: -340px;
+    margin: 25px;
+    margin-left: -1px;
+}
+
+.premiam {
+    position: relative;
+    top: -335px;
+    margin-left: -15px;
+    width: 1270px;
+}
+
+.music {
+    border-radius: 5px;
+    color: rgb(55, 56, 56);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19.6px;
+    font-weight: 200px;
+    margin-left: 36px;
+    position: relative;
+    top: -330px;
+}
+
+#seen {
+    color: red;
+    position: relative;
+    left: 890px;
+    top: -2px;
+    word-spacing: 2px;
+    font-size: 12px;
+}
+
+.music6 h5 {
+    word-spacing: 1px;
+    font-size: 17px;
+    position: relative;
+    top: -19px;
+    left: 1px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+}
+
+.music6 p {
+    font-size: 16px;
+    position: relative;
+    top: -30px;
+    left: 2px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
+
+.music1 p {
+    font-size: 16px;
+    position: relative;
+    top: -40px;
+    left: 2px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
+
+.music2 h5 {
+    word-spacing: 1px;
+    font-size: 17px;
+    position: relative;
+    top: -140px;
+    left: 250px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+}
+
+.music2 p {
+    font-size: 16px;
+    position: relative;
+    top: -160px;
+    left: 250px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
+
+.music3 h5 {
+    word-spacing: 1px;
+    font-size: 17px;
+    position: relative;
+    top: -290px;
+    left: 495px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+}
+
+.music3 p {
+    font-size: 16px;
+    position: relative;
+    top: -310px;
+    left: 495px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
+
+.music4 h5 {
+    word-spacing: 1px;
+    font-size: 17px;
+    position: relative;
+    top: -440px;
+    left: 745px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+}
+
+.music4 p {
+    font-size: 16px;
+    position: relative;
+    top: -459px;
+    left: 745px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
+
+.music5 h5 {
+    word-spacing: 1px;
+    font-size: 17px;
+    position: relative;
+    top: -590px;
+    left: 992px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 500;
+}
+
+.music5 p {
+    font-size: 16px;
+    position: relative;
+    top: -610px;
+    left: 992px;
+    font-family: sans-serif;
+    color: rgb(104, 103, 103);
+}
